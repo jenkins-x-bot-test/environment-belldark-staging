@@ -10,6 +10,9 @@ dependencies:
 - name: kubecon-sandiego
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: san-deigo2
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: sandiego-1
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
